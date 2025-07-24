@@ -1,7 +1,6 @@
 #INdividual plots
 
 
-
 # ---- 1. Load data ----
 file_path <- "/Users/piascaramiglia/Documents/Tarajoq/Final_data.csv"
 data <- read.csv(file_path)
